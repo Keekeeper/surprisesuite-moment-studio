@@ -1,0 +1,28 @@
+SURPRISESUITE MOMENT STUDIO — TEST RELEASE v2.0
+
+WHAT IS INSIDE
+index.html — complete SurpriseSuite creator website; upload only this file to update your existing Render site.
+demo.html — optional standalone sample proposal show.
+TEST_CHECKLIST.txt — practical iPhone, laptop, projector and export tests.
+
+UPDATE EXISTING GITHUB + RENDER WEBSITE (do not create another repository):
+1. Go to https://github.com/Keekeeper/surprisesuite-moment-studio
+2. Open the existing index.html file and choose Edit (pencil) or Add file > Upload files as available.
+3. Replace the existing index.html with THIS index.html; commit to main. The filename must be exactly index.html, located at the repository root.
+4. Your existing Render static site deploys automatically on commit. See https://dashboard.render.com/static/srv-dbf3ujg473hc73boti7g
+5. Check deploy status is Live, then visit https://surprisesuite-moment-studio.onrender.com
+6. Hard refresh (or open a Private tab) if an old page appears.
+
+DO NOT UPLOAD CUSTOMER PHOTOS, VOICE RECORDINGS, PERSONALIZED PLAYABLE SHOWS, OR EDITABLE KIT JSON TO YOUR PUBLIC GITHUB REPOSITORY.
+
+HOW TO TEST FIRST — NO HARDWARE
+Open the website > Watch the sample reveal > Begin Your Moment.
+Tap TV preview to open the cinematic version. For iPhone-to-TV: Control Center > Screen Mirroring > compatible AirPlay TV, then TV preview and Begin.
+
+HOW TO TEST REAL PROJECTION
+Connect a laptop to an actual projector; aim at a white flat surface or white 3-faced box.
+Website > 02 Map the Surface > select object > drag each corner in calibration > Preview Mapping Stage > Begin Your Moment.
+Projection mode is deliberately BLACK outside mapped faces. It does not magically project from an ordinary smartphone or television.
+
+KNOWN LIMITATIONS
+Manual four-point perspective mapping; not automatic 3D scanning or full spatial 3D calibration. No hosted customer QR code, checkout, login, shared guest link, or cloud media. Browser stores editing drafts locally and exports standalone show files. Large video files may exceed device or browser limits. Music uses a simple browser-generated atmosphere, not licensed commercial music. Treat this as a pilot demo only.

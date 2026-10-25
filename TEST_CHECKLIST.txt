@@ -1,0 +1,23 @@
+SURPRISESUITE v2 TEST CHECKLIST
+
+DESKTOP / MOBILE
+[ ] Home page fits screen and buttons visible (iPhone Safari and laptop Chrome).
+[ ] Watch the sample reveal; tap Begin; see animated flower/particles, hear gentle atmosphere, read final reveal.
+[ ] Tap TV preview: full scene, no blank mapping faces.
+[ ] Tab 01: change names, occasion, personal message and final text; save draft; reload page; confirm fields persist.
+[ ] Upload portrait photo: no face cropping. Upload short video, and record / upload a voice message.
+[ ] Listen to voice: music becomes quieter while voice speaks. Verify volume on actual hardware.
+[ ] Tab 02: choose 3-faced box; drag a corner with touch/mouse; change faces; Reset selected face works.
+[ ] Open projection stage: black background with warped artwork on 3 faces.
+[ ] Tab 03: launch TV and mapping modes separately; return to Studio works.
+[ ] Tab 04: check five test items, Export show and Editable Kit. Open export on a second device. Ensure private media is not posted on GitHub.
+
+REAL-WORLD PROJECTION (ONLY IF EQUIPMENT IS AVAILABLE)
+[ ] Place projector stably, never block aisles or shine at people; work in a dim room.
+[ ] Use a white, fixed physical surface; connect from laptop using supported display output.
+[ ] Adjust projector placement and manual mapping to align each face.
+[ ] Test with lights at real event brightness; inspect all sides and sight lines.
+[ ] Do two full rehearsals including sound, message, fallback and restart.
+
+SELLING GATE — NOT YET COMPLETE
+[ ] Public/paid rollout requires hosted customer accounts, media privacy/security, checkout, secure invitation QR links, refund policy, licensed music and venue operations; not included in this prototype.
